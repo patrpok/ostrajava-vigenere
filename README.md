@@ -8,7 +8,7 @@ Pro spuštění je nutné mít nainstalovanou [OSTRAJavu](https://github.com/tko
 Jako parametr při spuštění se uvádí cesta k `.txt` souboru, kde první řádek musí obsahovat zprávu napsanou malými písmeny a bez mezer. Na druhém řádku musí být klíč šifry.
 
 
-# Vigenèr ciphre encoder
+# Vigenère ciphre encoder
 
 Script for encoding message using [Vigenèr ciphre](https://en.wikipedia.org/wiki/Vigen%C3%A8re_cipher) written in [OSTRAJava](https://github.com/tkohout/OSTRAJava) programming laguage which is inspired by Silesian dialect used mostly by coal miners.
 
