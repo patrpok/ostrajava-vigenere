@@ -1,4 +1,3 @@
-
 banik pyco
 
 tryda Stverec{
