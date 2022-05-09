@@ -7,6 +7,8 @@ Skript pro zakódování textu za pomocí polyalfabetické [Vigenèrovy šifry](
 Pro spuštění je nutné mít nainstalovanou [OSTRAJavu](https://github.com/tkohout/OSTRAJava), kde najdete také pokyny pro kompilaci skriptu a spouštění programu.
 Jako parametr při spuštění se uvádí cesta k `.txt` souboru, kde první řádek musí obsahovat zprávu napsanou malými písmeny a bez mezer. Na druhém řádku musí být klíč šifry.
 
+Spuštěný soubor je `Vigenere.cyp`
+
 
 # Vigenère ciphre encoder
 
@@ -16,3 +18,5 @@ Script for encoding message using [Vigenèr ciphre](https://en.wikipedia.org/wik
 
 Scripts must be precompiled using [OSTRAJava](https://github.com/tkohout/OSTRAJava) compiler.
 When starting the program, use path to `.txt` file as parameter which must include message on the first line and ciphre key on the second line.
+
+Run a `Vigenere.cyp` file. 
