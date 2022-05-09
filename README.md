@@ -12,7 +12,7 @@ Spouštěný soubor je `Vigenere.cyp`
 
 # Vigenère ciphre encoder
 
-Script for encoding message using [Vigenèr ciphre](https://en.wikipedia.org/wiki/Vigen%C3%A8re_cipher) written in [OSTRAJava](https://github.com/tkohout/OSTRAJava) programming laguage which is inspired by Silesian dialect used mostly by coal miners.
+Script for encoding messages using [Vigenèr ciphre](https://en.wikipedia.org/wiki/Vigen%C3%A8re_cipher) written in [OSTRAJava](https://github.com/tkohout/OSTRAJava) programming laguage which is inspired by Silesian dialect used mostly by coal miners.
 
 ### Running the script
 
