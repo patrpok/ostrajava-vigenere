@@ -1,5 +1,3 @@
-
-
 banik pyco
 
 tryda Ostrava {
